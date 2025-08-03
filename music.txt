@@ -1,0 +1,7 @@
+28 28
+5
+cello
+clarinet
+drums
+piano
+trombone

@@ -1,0 +1,12 @@
+28 28
+10
+top
+trouser
+pullover
+dress
+coat
+sandal
+shirt
+sneaker
+bag
+boot

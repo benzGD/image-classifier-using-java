@@ -1,0 +1,14 @@
+28 28
+12
+ant
+bee
+bird
+butterfly
+cat
+dog
+elephant
+fish
+octopus
+panda
+tiger
+turtle

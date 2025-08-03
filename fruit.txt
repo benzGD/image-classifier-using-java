@@ -1,0 +1,5 @@
+28 28
+3
+apple
+banana
+strawberry

@@ -1,0 +1,9 @@
+Configuration files in this directory:
+image3x3.txt
+animals.txt
+digits.txt
+fashion.txt
+fruit.txt
+Kuzushiji.txt
+music.txt
+
